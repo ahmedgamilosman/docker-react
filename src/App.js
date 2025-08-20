@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          DEPI Round 3******************** 
+          live editor with both testing and Development 
         </p>
         <a
           className="App-link"
